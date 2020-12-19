@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 worker: node index.js
+=======
+worker: npm start
+>>>>>>> 9602689b71f7536eee257654c4e7c8198b65b575
